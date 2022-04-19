@@ -1,4 +1,13 @@
+@font-face {
+    font-family: 'WG_QuickHand';
+    src: url('./WG_QuickHand.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-weight: 600;
+}
+
 .hello {
     color: red;
+    font-family: 'WG_QuickHand';
 /*     background: url('./NEWC_Fundraiser_sq.png');
  */  }
