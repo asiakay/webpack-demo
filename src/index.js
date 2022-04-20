@@ -13,13 +13,6 @@ function component(){
     element.appendChild(btn);
 
 
-      // Add the image to our existing div.
-const myFlyer = new Image();
-myFlyer.src = NEWC_Fundraiser_sq;
-
-element.appendChild(myFlyer);
-
-
     return element;
 }
 
